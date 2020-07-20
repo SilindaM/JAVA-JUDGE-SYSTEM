@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run1267753341/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run1267753341/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run1330496883/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run1330496883/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run1351477236/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run1351477236/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run1450030829/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run1450030829/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run1488428454/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run1488428454/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run1985125396/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run1985125396/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run253986689/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run253986689/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run331139746/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run331139746/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run536717538/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run536717538/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run659968841/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run659968841/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/run881799452/JUDGES.jar"/>
+	<classpathentry kind="lib" path="dist/run881799452/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
